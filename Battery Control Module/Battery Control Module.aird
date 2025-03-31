@@ -81,7 +81,7 @@
         <description xmi:type="description_1:DiagramDescription" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/logical.odesign#//@ownedViewpoints[name='Logical%20Architecture']/@ownedRepresentations[name='Logical%20Data%20Flow%20Blank']"/>
         <target xmi:type="org.polarsys.capella.core.data.la:LogicalFunction" href="Battery%20Control%20Module.capella#6ceb090c-ee51-4956-8125-e7984808eb42"/>
       </ownedRepresentationDescriptors>
-      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_w1A1kA5YEfCjb8Bb4rwebA" name="[LAB] OTA and Diagnotics" repPath="#_w08kIA5YEfCjb8Bb4rwebA" changeId="1743443879530">
+      <ownedRepresentationDescriptors xmi:type="viewpoint:DRepresentationDescriptor" uid="_w1A1kA5YEfCjb8Bb4rwebA" name="[LAB] OTA and Diagnotics" repPath="#_w08kIA5YEfCjb8Bb4rwebA" changeId="1743444024794">
         <eAnnotations xmi:type="description:DAnnotation" uid="_w079EA5YEfCjb8Bb4rwebA" source="https://www.polarsys.org/capella/dannotation/DesactivatedFilters">
           <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_w1JYcA5YEfCjb8Bb4rwebA" key="hide.computed.component.exchanges.filter" value="true"/>
           <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_w1JYcQ5YEfCjb8Bb4rwebA" key="hide.computed.physical.links.filter" value="true"/>
@@ -16845,7 +16845,7 @@
       </ownedStyle>
       <actualMapping xmi:type="description_1:NodeMapping" href="platform:/plugin/org.polarsys.capella.core.sirius.analysis/description/logical.odesign#//@ownedViewpoints[name='Logical%20Architecture']/@ownedRepresentations[name='Logical%20Architecture%20Blank']/@defaultLayer/@nodeMappings[name='LAB_FunctionalChainEnd']"/>
     </ownedDiagramElements>
-    <ownedDiagramElements xmi:type="diagram:DNodeContainer" uid="_w0_AYg5YEfCjb8Bb4rwebA" name="Logical System">
+    <ownedDiagramElements xmi:type="diagram:DNodeContainer" uid="_w0_AYg5YEfCjb8Bb4rwebA" name="Battery Managment System">
       <target xmi:type="org.polarsys.capella.core.data.cs:Part" href="Battery%20Control%20Module.capella#42b409a2-d552-4914-9373-10a9ea0e4b84"/>
       <semanticElements xmi:type="org.polarsys.capella.core.data.cs:Part" href="Battery%20Control%20Module.capella#42b409a2-d552-4914-9373-10a9ea0e4b84"/>
       <semanticElements xmi:type="org.polarsys.capella.core.data.la:LogicalComponent" href="Battery%20Control%20Module.capella#265b1d2f-fcaa-40dc-80c3-90d50fd2c97a"/>

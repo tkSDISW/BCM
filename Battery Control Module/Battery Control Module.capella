@@ -3309,7 +3309,7 @@
             id="45ec7632-600c-4cb6-8e61-32930711fa3f" targetElement="#5fc35c00-05b4-4263-9602-ec73d9bb0807"
             sourceElement="#a68da899-4eb3-413a-956d-cad264d3c7db"/>
         <ownedParts xsi:type="org.polarsys.capella.core.data.cs:Part" id="42b409a2-d552-4914-9373-10a9ea0e4b84"
-            name="Logical System" abstractType="#265b1d2f-fcaa-40dc-80c3-90d50fd2c97a"/>
+            name="Battery Managment System" abstractType="#265b1d2f-fcaa-40dc-80c3-90d50fd2c97a"/>
         <ownedParts xsi:type="org.polarsys.capella.core.data.cs:Part" id="4de6b856-e28a-477b-82cc-a16f20acea8a"
             name="Vehicle Control Unit" abstractType="#60be13a6-377a-490e-9d81-2c561199096a"/>
         <ownedParts xsi:type="org.polarsys.capella.core.data.cs:Part" id="f34e7317-7ff3-4fa9-9234-e1c2be329d54"
@@ -3327,7 +3327,7 @@
         <ownedParts xsi:type="org.polarsys.capella.core.data.cs:Part" id="a68da899-4eb3-413a-956d-cad264d3c7db"
             name="Batteries" abstractType="#5a3311a5-4f79-4997-aa8f-b989a6527920"/>
         <ownedLogicalComponents xsi:type="org.polarsys.capella.core.data.la:LogicalComponent"
-            id="265b1d2f-fcaa-40dc-80c3-90d50fd2c97a" name="Logical System">
+            id="265b1d2f-fcaa-40dc-80c3-90d50fd2c97a" name="Battery Managment System">
           <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="3007ab81-d34b-4ab2-a028-e524ede3ce1e"
               name="Battery Control Module " abstractType="#f0bc4387-ff49-4a30-b3bb-ea38cc4d359c"/>
           <ownedFeatures xsi:type="org.polarsys.capella.core.data.cs:Part" id="c2b0208f-4b19-4657-8536-43d27d2004e4"
