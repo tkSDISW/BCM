@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="ASCII"?>
+<plmpivot:PlmProject xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:plmpivot="http://www.example.org/Plmpivot" semanticIdentifier="Battery Control Module" plmIdentifier="Aojdu24TJm$IwA" revision="A" name="Battery Control Module" reservationStatus="LOCKED" label="112782/A">
+  <options key="uml0Type" value="Capella Library"/>
+  <options key="tcitemId" value="112782"/>
+  <options key="staging.area.path" value="C:\Apps\SMW\PLMSiemensstaging\Battery Control Module_112782_A"/>
+  <options key="timestamp" value="w1tdfOjqJm$IwA"/>
+  <model semanticIdentifier="486856b3-2ce4-4e36-b6a9-240ae78bf6a2" name="platform:/resource/Battery%20Control%20Module/Battery%20Control%20Module.aird">
+    <images xsi:type="plmpivot:RepresentationImage" semanticIdentifier="_saXPMA5YEfCjb8Bb4rwebA" plmIdentifier="A0hdu24TJm$IwA" name="_saXPMA5YEfCjb8Bb4rwebA" path="C:\Apps\SMW\PLMSiemensstaging\Battery Control Module_112782_A" imageFormat="jpg">
+      <plmOccurrenceIdentifiers key="486856b3-2ce4-4e36-b6a9-240ae78bf6a2__saXPMA5YEfCjb8Bb4rwebA" value="gEmdu24TJm$IwA"/>
+    </images>
+    <images xsi:type="plmpivot:RepresentationImage" semanticIdentifier="_-dg8gA5hEfCjb8Bb4rwebA" plmIdentifier="A0od__w8Jm$IwA" name="_-dg8gA5hEfCjb8Bb4rwebA" path="C:\Apps\SMW\PLMSiemensstaging\Battery Control Module_112782_A" imageFormat="jpg">
+      <plmOccurrenceIdentifiers key="486856b3-2ce4-4e36-b6a9-240ae78bf6a2__-dg8gA5hEfCjb8Bb4rwebA" value="QIrd__w8Jm$IwA"/>
+    </images>
+    <images xsi:type="plmpivot:RepresentationImage" semanticIdentifier="_DwIPYA6TEfCjb8Bb4rwebA" plmIdentifier="A0qd__w8Jm$IwA" name="_DwIPYA6TEfCjb8Bb4rwebA" path="C:\Apps\SMW\PLMSiemensstaging\Battery Control Module_112782_A" imageFormat="jpg">
+      <plmOccurrenceIdentifiers key="486856b3-2ce4-4e36-b6a9-240ae78bf6a2__DwIPYA6TEfCjb8Bb4rwebA" value="QIod__w8Jm$IwA"/>
+    </images>
+    <images xsi:type="plmpivot:RepresentationImage" semanticIdentifier="_5CpbsA1jEfCIotq8qf0oKg" plmIdentifier="Aotdu24TJm$IwA" name="_5CpbsA1jEfCIotq8qf0oKg" path="C:\Apps\SMW\PLMSiemensstaging\Battery Control Module_112782_A" imageFormat="jpg">
+      <plmOccurrenceIdentifiers key="486856b3-2ce4-4e36-b6a9-240ae78bf6a2__5CpbsA1jEfCIotq8qf0oKg" value="gQldu24TJm$IwA"/>
+    </images>
+    <images xsi:type="plmpivot:RepresentationImage" semanticIdentifier="_33cXgA5NEfCIotq8qf0oKg" plmIdentifier="Aovdu24TJm$IwA" name="_33cXgA5NEfCIotq8qf0oKg" path="C:\Apps\SMW\PLMSiemensstaging\Battery Control Module_112782_A" imageFormat="jpg">
+      <plmOccurrenceIdentifiers key="486856b3-2ce4-4e36-b6a9-240ae78bf6a2__33cXgA5NEfCIotq8qf0oKg" value="gAtdu24TJm$IwA"/>
+    </images>
+    <images xsi:type="plmpivot:RepresentationImage" semanticIdentifier="_bKlGQA5UEfCIotq8qf0oKg" plmIdentifier="Ashdu24TJm$IwA" name="_bKlGQA5UEfCIotq8qf0oKg" path="C:\Apps\SMW\PLMSiemensstaging\Battery Control Module_112782_A" imageFormat="jpg">
+      <plmOccurrenceIdentifiers key="486856b3-2ce4-4e36-b6a9-240ae78bf6a2__bKlGQA5UEfCIotq8qf0oKg" value="gIldu24TJm$IwA"/>
+    </images>
+    <images xsi:type="plmpivot:RepresentationImage" semanticIdentifier="_JlGaIA5QEfCIotq8qf0oKg" plmIdentifier="Asjdu24TJm$IwA" name="_JlGaIA5QEfCIotq8qf0oKg" path="C:\Apps\SMW\PLMSiemensstaging\Battery Control Module_112782_A" imageFormat="jpg">
+      <plmOccurrenceIdentifiers key="486856b3-2ce4-4e36-b6a9-240ae78bf6a2__JlGaIA5QEfCIotq8qf0oKg" value="gIodu24TJm$IwA"/>
+    </images>
+    <images xsi:type="plmpivot:RepresentationImage" semanticIdentifier="_oZQcIA5WEfCIotq8qf0oKg" plmIdentifier="Asldu24TJm$IwA" name="_oZQcIA5WEfCIotq8qf0oKg" path="C:\Apps\SMW\PLMSiemensstaging\Battery Control Module_112782_A" imageFormat="jpg">
+      <plmOccurrenceIdentifiers key="486856b3-2ce4-4e36-b6a9-240ae78bf6a2__oZQcIA5WEfCIotq8qf0oKg" value="gEjdu24TJm$IwA"/>
+    </images>
+    <images xsi:type="plmpivot:RepresentationImage" semanticIdentifier="_w08kIA5YEfCjb8Bb4rwebA" plmIdentifier="Aspdu24TJm$IwA" name="_w08kIA5YEfCjb8Bb4rwebA" path="C:\Apps\SMW\PLMSiemensstaging\Battery Control Module_112782_A" imageFormat="jpg">
+      <plmOccurrenceIdentifiers key="486856b3-2ce4-4e36-b6a9-240ae78bf6a2__w08kIA5YEfCjb8Bb4rwebA" value="gIudu24TJm$IwA"/>
+    </images>
+    <images xsi:type="plmpivot:RepresentationImage" semanticIdentifier="_en9hMA5WEfCIotq8qf0oKg" plmIdentifier="Asrdu24TJm$IwA" name="_en9hMA5WEfCIotq8qf0oKg" path="C:\Apps\SMW\PLMSiemensstaging\Battery Control Module_112782_A" imageFormat="jpg">
+      <plmOccurrenceIdentifiers key="486856b3-2ce4-4e36-b6a9-240ae78bf6a2__en9hMA5WEfCIotq8qf0oKg" value="gMsdu24TJm$IwA"/>
+    </images>
+    <images xsi:type="plmpivot:RepresentationImage" semanticIdentifier="_hhdTUA5VEfCIotq8qf0oKg" plmIdentifier="Astdu24TJm$IwA" name="_hhdTUA5VEfCIotq8qf0oKg" path="C:\Apps\SMW\PLMSiemensstaging\Battery Control Module_112782_A" imageFormat="jpg">
+      <plmOccurrenceIdentifiers key="486856b3-2ce4-4e36-b6a9-240ae78bf6a2__hhdTUA5VEfCIotq8qf0oKg" value="gMhdu24TJm$IwA"/>
+    </images>
+    <images xsi:type="plmpivot:RepresentationImage" semanticIdentifier="_8KSlYA5QEfCIotq8qf0oKg" plmIdentifier="Asvdu24TJm$IwA" name="_8KSlYA5QEfCIotq8qf0oKg" path="C:\Apps\SMW\PLMSiemensstaging\Battery Control Module_112782_A" imageFormat="jpg">
+      <plmOccurrenceIdentifiers key="486856b3-2ce4-4e36-b6a9-240ae78bf6a2__8KSlYA5QEfCIotq8qf0oKg" value="gQidu24TJm$IwA"/>
+    </images>
+    <images xsi:type="plmpivot:RepresentationImage" semanticIdentifier="_hExYUA5KEfCIotq8qf0oKg" plmIdentifier="Awhdu24TJm$IwA" name="_hExYUA5KEfCIotq8qf0oKg" path="C:\Apps\SMW\PLMSiemensstaging\Battery Control Module_112782_A" imageFormat="jpg">
+      <plmOccurrenceIdentifiers key="486856b3-2ce4-4e36-b6a9-240ae78bf6a2__hExYUA5KEfCIotq8qf0oKg" value="gMvdu24TJm$IwA"/>
+    </images>
+    <images xsi:type="plmpivot:RepresentationImage" semanticIdentifier="_OYXp8A5SEfCIotq8qf0oKg" plmIdentifier="Awjdu24TJm$IwA" name="_OYXp8A5SEfCIotq8qf0oKg" path="C:\Apps\SMW\PLMSiemensstaging\Battery Control Module_112782_A" imageFormat="jpg">
+      <plmOccurrenceIdentifiers key="486856b3-2ce4-4e36-b6a9-240ae78bf6a2__OYXp8A5SEfCIotq8qf0oKg" value="gEsdu24TJm$IwA"/>
+    </images>
+    <images xsi:type="plmpivot:RepresentationImage" semanticIdentifier="_0-fB0A5XEfCIotq8qf0oKg" plmIdentifier="Awldu24TJm$IwA" name="_0-fB0A5XEfCIotq8qf0oKg" path="C:\Apps\SMW\PLMSiemensstaging\Battery Control Module_112782_A" imageFormat="jpg">
+      <plmOccurrenceIdentifiers key="486856b3-2ce4-4e36-b6a9-240ae78bf6a2__0-fB0A5XEfCIotq8qf0oKg" value="gEvdu24TJm$IwA"/>
+    </images>
+    <images xsi:type="plmpivot:RepresentationImage" semanticIdentifier="_3UxIEA4oEfCIotq8qf0oKg" plmIdentifier="Awndu24TJm$IwA" name="_3UxIEA4oEfCIotq8qf0oKg" path="C:\Apps\SMW\PLMSiemensstaging\Battery Control Module_112782_A" imageFormat="jpg">
+      <plmOccurrenceIdentifiers key="486856b3-2ce4-4e36-b6a9-240ae78bf6a2__3UxIEA4oEfCIotq8qf0oKg" value="gIidu24TJm$IwA"/>
+    </images>
+    <images xsi:type="plmpivot:RepresentationImage" semanticIdentifier="_zV0QUA5WEfCIotq8qf0oKg" plmIdentifier="Awpdu24TJm$IwA" name="_zV0QUA5WEfCIotq8qf0oKg" path="C:\Apps\SMW\PLMSiemensstaging\Battery Control Module_112782_A" imageFormat="jpg">
+      <plmOccurrenceIdentifiers key="486856b3-2ce4-4e36-b6a9-240ae78bf6a2__zV0QUA5WEfCIotq8qf0oKg" value="gMpdu24TJm$IwA"/>
+    </images>
+    <images xsi:type="plmpivot:RepresentationImage" semanticIdentifier="_1bBmIQ5SEfCIotq8qf0oKg" plmIdentifier="Awrdu24TJm$IwA" name="_1bBmIQ5SEfCIotq8qf0oKg" path="C:\Apps\SMW\PLMSiemensstaging\Battery Control Module_112782_A" imageFormat="jpg">
+      <plmOccurrenceIdentifiers key="486856b3-2ce4-4e36-b6a9-240ae78bf6a2__1bBmIQ5SEfCIotq8qf0oKg" value="gEgdu24TJm$IwA"/>
+    </images>
+    <images xsi:type="plmpivot:RepresentationImage" semanticIdentifier="_LzHlIA41EfCIotq8qf0oKg" plmIdentifier="Awtdu24TJm$IwA" name="_LzHlIA41EfCIotq8qf0oKg" path="C:\Apps\SMW\PLMSiemensstaging\Battery Control Module_112782_A" imageFormat="jpg">
+      <plmOccurrenceIdentifiers key="486856b3-2ce4-4e36-b6a9-240ae78bf6a2__LzHlIA41EfCIotq8qf0oKg" value="gIrdu24TJm$IwA"/>
+    </images>
+    <images xsi:type="plmpivot:RepresentationImage" semanticIdentifier="_3Ug6gA5WEfCIotq8qf0oKg" plmIdentifier="Awvdu24TJm$IwA" name="_3Ug6gA5WEfCIotq8qf0oKg" path="C:\Apps\SMW\PLMSiemensstaging\Battery Control Module_112782_A" imageFormat="jpg">
+      <plmOccurrenceIdentifiers key="486856b3-2ce4-4e36-b6a9-240ae78bf6a2__3Ug6gA5WEfCIotq8qf0oKg" value="gEpdu24TJm$IwA"/>
+    </images>
+    <images xsi:type="plmpivot:RepresentationImage" semanticIdentifier="_xrgnABYfEfCpY-YVa_cqLA" plmIdentifier="QZid$526Jm$IwA" name="_xrgnABYfEfCpY-YVa_cqLA" path="C:\Apps\SMW\PLMSiemensstaging\Battery Control Module_112782_A" imageFormat="jpg" type="Physical Architecture Blank">
+      <plmOccurrenceIdentifiers key="486856b3-2ce4-4e36-b6a9-240ae78bf6a2__xrgnABYfEfCpY-YVa_cqLA" value="iUmd$526Jm$IwA"/>
+      <plmOccurrenceIdentifiers key="68f71738-fbcb-496f-b8d4-151731e45bbb__xrgnABYfEfCpY-YVa_cqLA" value="iMjd$526Jm$IwA"/>
+      <plmOccurrenceIdentifiers key="c6b5f9e7-a8dc-4916-9367-9891d4e608b5__xrgnABYfEfCpY-YVa_cqLA" value="iMmd$526Jm$IwA"/>
+    </images>
+    <images xsi:type="plmpivot:RepresentationImage" semanticIdentifier="_VGT2QBYhEfCpY-YVa_cqLA" plmIdentifier="QZkd$526Jm$IwA" name="_VGT2QBYhEfCpY-YVa_cqLA" path="C:\Apps\SMW\PLMSiemensstaging\Battery Control Module_112782_A" imageFormat="jpg" type="Physical Architecture Blank">
+      <plmOccurrenceIdentifiers key="486856b3-2ce4-4e36-b6a9-240ae78bf6a2__VGT2QBYhEfCpY-YVa_cqLA" value="iMpd$526Jm$IwA"/>
+      <plmOccurrenceIdentifiers key="68f71738-fbcb-496f-b8d4-151731e45bbb__VGT2QBYhEfCpY-YVa_cqLA" value="iIqd$526Jm$IwA"/>
+      <plmOccurrenceIdentifiers key="c6b5f9e7-a8dc-4916-9367-9891d4e608b5__VGT2QBYhEfCpY-YVa_cqLA" value="iItd$526Jm$IwA"/>
+    </images>
+  </model>
+  <archive semanticIdentifier="Battery Control Module.zip" plmIdentifier="Asndu24TJm$IwA" name="Battery Control Module.zip" hash="7f4adc47e4e89c2df7db5412963b8babb50c7c44" path="C:\Apps\SMW\PLMSiemensstaging\Battery Control Module_112782_A">
+    <plmOccurrenceIdentifiers key="Design_Battery Control Module.zip" value="gMkdu24TJm$IwA"/>
+    <files hash="0f53a84193538acac347e9b9bc9ad1c7b287fba1" path="Battery Control Module/.project"/>
+    <files hash="a008e19471756c10e11d0a1b028bfa32339207b6" path="Battery Control Module/Battery Control Module.afm"/>
+    <files hash="a48c1d53cf0e0c1812b8b15e254e78f711caa5a3" path="Battery Control Module/Battery Control Module.aird"/>
+    <files hash="1cb3e95ad3911dbcb278b15f2e9ef8f2130c04cc" path="Battery Control Module/Battery Control Module.capella"/>
+  </archive>
+</plmpivot:PlmProject>
